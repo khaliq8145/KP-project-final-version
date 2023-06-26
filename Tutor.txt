@@ -1,0 +1,18 @@
+
+#note: apabila menggunakan termux, rish terlebih dahulu sebelum memasukan command
+sh /sdcard/KHALIQ/rish
+
+Install
+versi light/ringan (rekomendation stabil)
+sh /sdcard/KHALIQ/light.sh
+
+versi performance: 
+sh /sdcard/KHALIQ/performance.sh
+
+jangan restart device setelah install
+
+Uninstall
+sh /sdcard/KHALIQ/remove.sh
+reboot/restart device setelah uninstall
+
+terimakasih
